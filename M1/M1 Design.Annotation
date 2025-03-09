@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=R39
+LogicalPartID0=1
+DocumentName0=M1 Design.SchDoc
+ChannelName0=M1 Design
+UniqueID0=\AZQKUUTO
+PhysicalDesignator0=R?
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
