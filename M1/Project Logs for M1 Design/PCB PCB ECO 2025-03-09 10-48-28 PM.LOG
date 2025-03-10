@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=J1 Old Footprint=CONN_PPTC041LFBN-RC_SUL New Footprint=CONN4_PRPC004_SUL
+Change Component Footprint: Designator=J2 Old Footprint=CONN_PPTC041LFBN-RC_SUL New Footprint=CONN4_PRPC004_SUL
+Change Component Footprint: Designator=J3 Old Footprint=CONN_PPTC041LFBN-RC_SUL New Footprint=CONN4_PRPC004_SUL
+Change Component Comment : Designator=J1 Old Comment=PPTC041LFBN-RC New Comment=PRPC004SAAN-RC
+Change Component Comment : Designator=J2 Old Comment=PPTC041LFBN-RC New Comment=PRPC004SAAN-RC
+Change Component Comment : Designator=J3 Old Comment=PPTC041LFBN-RC New Comment=PRPC004SAAN-RC
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CONN_PPTC041LFBN-RC_SUL"; UniqueID = "\RFQXKPMR" ("\RFQXKPMR")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Headers, Male Pins"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "CONN_PPTC041LFBN-RC_SUL"; UniqueID = "\QTRYOOUO" ("\QTRYOOUO")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Headers, Male Pins"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "CONN_PPTC041LFBN-RC_SUL"; UniqueID = "\WAUUPIST" ("\WAUUPIST")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Headers, Male Pins"; VariantName = "[No Variations]"

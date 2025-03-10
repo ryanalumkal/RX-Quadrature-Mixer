@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=Net1_6 Pin=R17-1
+Removed Pin From Net: NetName=Net1_6 Pin=R25-1
+Removed Pin From Net: NetName=Net1_5 Pin=R36-1
+Removed Pin From Net: NetName=Net1_5 Pin=R37-2
+Removed Pin From Net: NetName=Net1_2 Pin=R47-1
+Removed Pin From Net: NetName=Net1_3 Pin=R48-1
+Removed Pin From Net: NetName=Net1_3 Pin=R50-2
+Removed Pin From Net: NetName=Net1_2 Pin=R51-2
+Add Component: Footprint Not Found N08E
+Add Component: Footprint Not Found N08E
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 1-2
+Add Pin To Net: Unknown Pin: Pin 1-3
+Add Pin To Net: Unknown Pin: Pin 1-4
+Add Pin To Net: Unknown Pin: Pin 1-5
+Add Pin To Net: Unknown Pin: Pin 1-6
+Add Pin To Net: Unknown Pin: Pin 1-7
+Add Pin To Net: Unknown Pin: Pin 1-8
+Add Pin To Net: Unknown Pin: Pin 2-4
+Add Pin To Net: Unknown Pin: Pin 2-8
+Added Pin To Net: NetName=Net1_3 Pin=C12-2
+Added Pin To Net: NetName=Net1_5 Pin=C13-1
+Added Pin To Net: NetName=Net1_2 Pin=R12-1
+Added Pin To Net: NetName=Net1_6 Pin=R13-1
+Added Pin To Net: NetName=Net1_2 Pin=R14-1
+Added Pin To Net: NetName=Net1_6 Pin=R19-1
+Added Pin To Net: NetName=Net1_3 Pin=R22-2
+Added Pin To Net: NetName=Net1_5 Pin=R23-1
+Added Pin To Net: NetName=Net2_1 Pin=C25-2
+Added Pin To Net: NetName=Net2_1 Pin=R47-2
+Added Net: Name=Net2_1
+Added Pin To Net: NetName=Net2_2 Pin=R47-1
+Added Pin To Net: NetName=Net2_2 Pin=R51-2
+Added Net: Name=Net2_2
+Added Pin To Net: NetName=Net2_3 Pin=R48-1
+Added Pin To Net: NetName=Net2_3 Pin=R50-2
+Added Net: Name=Net2_3
+Added Pin To Net: NetName=Net2_5 Pin=R36-1
+Added Pin To Net: NetName=Net2_5 Pin=R37-2
+Added Net: Name=Net2_5
+Added Pin To Net: NetName=Net2_6 Pin=R17-1
+Added Pin To Net: NetName=Net2_6 Pin=R25-1
+Added Net: Name=Net2_6
+Added Pin To Net: NetName=Net2_7 Pin=C15-2
+Added Pin To Net: NetName=Net2_7 Pin=R17-2
+Added Net: Name=Net2_7
+Add Class Member: Failed to add class member : Component 1 LM4562NANOPB
+Add Class Member: Failed to add class member : Component 2 LM4562NANOPB
