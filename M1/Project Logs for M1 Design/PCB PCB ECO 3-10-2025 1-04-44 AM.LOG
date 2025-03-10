@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC26_1 Pin=R32-1
+Removed Pin From Net: NetName=NetC18_1 Pin=R32-2
+Removed Member From Class: ClassName=M1 Design Member=R32
+Added Component: Designator=R?(RESC3116X65X40NL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC18_1 Pin=R?-1
+Added Pin To Net: NetName=NetC26_1 Pin=R?-2
+Added Member To Class: ClassName=M1 Design Member=Component R? RC1206FR-10270RL
