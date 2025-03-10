@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IF_L90 Pin=1-1
+Removed Pin From Net: NetName=IF_L0 Pin=1-7
+Removed Pin From Net: NetName=IF_L90 Pin=R14-2
+Removed Pin From Net: NetName=IF_L0 Pin=R19-2
+Added Pin To Net: NetName=IF_L0 Pin=1-1
+Added Pin To Net: NetName=IF_L90 Pin=1-7
+Added Pin To Net: NetName=IF_L0 Pin=R14-2
+Added Pin To Net: NetName=IF_L90 Pin=R19-2
