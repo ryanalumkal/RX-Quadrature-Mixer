@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC18_1 Pin=R30-1
+Removed Pin From Net: NetName=5V0 Pin=R30-2
+Change Component Footprint: Designator=R30 Old Footprint=RESC1005X40X25LL05T10 New Footprint=RC1206N_YAG
+Change Component Comment : Designator=R30 Old Comment=270 New Comment=RC1206FR-07270RL
+Change Managed Component Library Link : Designator=R30 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID= Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\IVSARIBS" ("\IVSARIBS")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0 Pin=R30-1
+Added Pin To Net: NetName=NetC18_1 Pin=R30-2

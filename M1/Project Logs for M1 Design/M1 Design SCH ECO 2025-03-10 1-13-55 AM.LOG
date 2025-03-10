@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=R24 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R28 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R30 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R31 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R33 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R34 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R35 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R40 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R42 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R43 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R44 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R46 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R49 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R53 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R59 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R61 Old Footprint=RESC3116X65X40NL10T20 New Footprint=RESC1005X40X25LL05T10
+Change Component Comment: Designator=R24 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R28 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R30 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R31 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R33 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R34 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R35 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R40 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R42 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R43 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R44 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R46 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R49 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R53 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R59 Old Comment=RC1206FR-10270RL New Comment=270
+Change Component Comment: Designator=R61 Old Comment=RC1206FR-10270RL New Comment=270
+Change Pin Designator/Name:  Old Designator=R24-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R24-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R28-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R28-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R31-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R31-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R33-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R33-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R34-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R34-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R40-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R40-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R42-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R42-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R46-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R46-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R53-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R53-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R59-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R59-2 Old Name=2 New Designator =1 New Name=1

@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Pin From Net: NetName=NetC27_1 Pin=R57-2
+Removed Member From Class: ClassName=M1 Design Member=R57
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R28 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R30 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R31 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R33 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R34 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R35 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R40 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R42 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R43 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R44 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R46 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R49 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R53 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R59 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change Managed Component Library Link : Designator=R61 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E2EACB8-6917-49C8-BAA7-347922C0C58C New ItemGUID=9DF8F115-AF34-471C-99CD-BFE987A2265B Old RevisionGUID=DA66C922-4621-4140-868E-9A464D3AE5F8 New RevisionGUID=BBA2F9E5-FD14-41C3-88E4-0E2D9A98CCF2
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\JWIKQFSY" ("\JWIKQFSY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\NSBECSAP" ("\NSBECSAP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\WFBLKJKI" ("\WFBLKJKI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\WCATLIPH" ("\WCATLIPH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\HYCPPDVT" ("\HYCPPDVT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\VYEVZDIC" ("\VYEVZDIC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\JTVXVUQT" ("\JTVXVUQT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\ICOCEMQG" ("\ICOCEMQG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\LNBVFMOA" ("\LNBVFMOA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\ZNLFVMWE" ("\ZNLFVMWE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\ZVWBPMUT" ("\ZVWBPMUT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\KWQCKGIZ" ("\KWQCKGIZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\VSRLEOBE" ("\VSRLEOBE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\TAOSUJYC" ("\TAOSUJYC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R59" ("R59"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\QXXACGVY" ("\QXXACGVY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61" ("R61"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\TZRGFEGZ" ("\TZRGFEGZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC3116X65X40NL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RESC3116X65X40NL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-10270RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC26_1 Pin=R32-1
+Added Pin To Net: NetName=NetC18_1 Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R55-1
+Added Pin To Net: NetName=NetC27_1 Pin=R55-2
+Added Member To Class: ClassName=M1 Design Member=Component R32 RC1206FR-10270RL
+Added Member To Class: ClassName=M1 Design Member=Component R55 RC1206FR-10270RL

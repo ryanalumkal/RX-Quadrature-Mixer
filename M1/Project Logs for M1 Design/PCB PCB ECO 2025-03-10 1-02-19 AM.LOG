@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R32 Old Footprint=RES_CRCW_1206_VIS New Footprint=STA_CF18_STP
+Change Component Comment : Designator=R32 Old Comment=CRCW1206270RFKEAHP New Comment=CF18JT270R
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RES_CRCW_1206_VIS"; UniqueID = "\NDVMIRHT" ("\NDVMIRHT")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC18_1 Pin=R32-1
+Removed Pin From Net: NetName=NetC26_1 Pin=R32-2
+Change Footprint: Footprint Not Found RES_CRCW_1206_VIS
+Change Component Comment : Designator=R32 Old Comment=RC1206FR-07270RL New Comment=CRCW1206270RFKEAHP
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RC1206N_YAG"; UniqueID = "\JWZPRPAG" ("\JWZPRPAG")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC26_1 Pin=R32-1
+Added Pin To Net: NetName=NetC18_1 Pin=R32-2
