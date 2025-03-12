@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=RX_SIG Pin=J1-2
+Added Member To Class: ClassName=M1 Design Member=Component C24 0.1u
+Added Member To Class: ClassName=M1 Design Member=Component R30 RC1206FR-10270RL
+Added Member To Class: ClassName=M1 Design Member=Component R57 RC1206FR-10270RL
