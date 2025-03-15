@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=RX_BPF Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=RX_LIM Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component Footprint: Designator=C6 Old Footprint=FP-GRM155-0_05-MFG New Footprint=CAP_FA28_TDK
+Change Component Footprint: Designator=C7 Old Footprint=FP-GRM155-0_05-MFG New Footprint=CAP_FA28_TDK
+Change Component Footprint: Designator=R3 Old Footprint=RESC1005X40X25LL05T10 New Footprint=STA_RNMF14_STP
+Change Component Comment : Designator=R3 Old Comment=24 New Comment=RNMF14FTC24R0
+Change Component Comment : Designator=C6 Old Comment=390p New Comment=FA28C0G1H391JNU06
+Change Component Comment : Designator=C7 Old Comment=390p New Comment=FA28C0G1H391JNU06
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=ABBC01E8-AC82-46DF-A661-729FB4C8FF3E New ItemGUID= Old RevisionGUID=6F9D7FE0-6735-4AE1-AE42-545710EC473C New RevisionGUID=
+Change Managed Component Library Link : Designator=C7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=ABBC01E8-AC82-46DF-A661-729FB4C8FF3E New ItemGUID= Old RevisionGUID=6F9D7FE0-6735-4AE1-AE42-545710EC473C New RevisionGUID=
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B5130500-4220-4A8D-BA4C-CCA4123B4E2A New ItemGUID= Old RevisionGUID=3669D370-09E9-4D2D-96D1-07E352BA3D88 New RevisionGUID=
+Change component parameters: Designator = "C6" ("C6"); Footprint = "FP-GRM155-0_05-MFG"; UniqueID = "\LNSTAKST" ("\LNSTAKST")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "FP-GRM155-0_05-MFG"; UniqueID = "\LNJIMOVR" ("\LNJIMOVR")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\UBBENZWB" ("\UBBENZWB")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=RX_BPF Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=RX_LIM Pin=C7-2

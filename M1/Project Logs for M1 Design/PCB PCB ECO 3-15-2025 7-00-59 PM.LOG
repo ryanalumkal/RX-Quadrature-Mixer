@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetC18_1 Pin=C21-1
+Removed Pin From Net: NetName=RX_BPF Pin=C21-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C22-1
+Removed Pin From Net: NetName=RX_BPF Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=L0_F1_0 Pin=C30-2
+Removed Pin From Net: NetName=L0_F1_90 Pin=C31-2
+Change Component Footprint: Designator=C20 Old Footprint=FP-CL17-IPC_C New Footprint=CAP_04023U0R2BAT2A
+Change Component Footprint: Designator=C18 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C21 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C22 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C23 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C24 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C26 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C27 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C30 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Footprint: Designator=C31 Old Footprint=FP-CL17-IPC_C New Footprint=FP-C0805C104M5UACTU-MFG
+Change Component Comment : Designator=C20 Old Comment=0.1u New Comment=04023U3R9BAT2A
+Change Component Comment : Designator=C18 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C21 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C22 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C23 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C24 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C26 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C27 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C30 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Component Comment : Designator=C31 Old Comment=0.1u New Comment=C0805C104M5UACTU
+Change Managed Component Library Link : Designator=C20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=625D31EF-F004-4505-998C-EF8BC3795A78 New ItemGUID= Old RevisionGUID=D0F42E28-812B-4E0A-BDA7-024E6D4DB94B New RevisionGUID=
+Change component parameters: Designator = "C20" ("C20"); Footprint = "FP-CL17-IPC_C"; UniqueID = "\CSTUXPFW" ("\CSTUXPFW")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX_BPF Pin=C21-1
+Added Pin To Net: NetName=NetC18_1 Pin=C21-2
+Added Pin To Net: NetName=RX_BPF Pin=C22-1
+Added Pin To Net: NetName=NetC20_1 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=L0_F1_0 Pin=C30-1
+Added Pin To Net: NetName=L0_F1_90 Pin=C31-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=Q1-7
+Added Pin To Net: NetName=NetC23_2 Pin=R31-2
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=Q2-7
+Added Pin To Net: NetName=NetC24_2 Pin=R40-2
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC30_2 Pin=R46-2
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC31_2 Pin=R56-2
+Added Net: Name=NetC31_2
