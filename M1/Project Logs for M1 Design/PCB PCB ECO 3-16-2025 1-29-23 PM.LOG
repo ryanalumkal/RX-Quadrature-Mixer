@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C22 Old Footprint=FP-CL03-IPC_C New Footprint=FP-0306-L_0_8_0_1-W_1_6_0-IPC_B
+Change Component Comment : Designator=C22 Old Comment=CL03A104KP3NNNC New Comment=TWK107B7104MVHT
+Change Managed Component Library Link : Designator=C22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C2D47A44-7132-4A6A-9AEC-ACEDFC7561B1 New ItemGUID=1411BE6C-955D-43E9-9839-1264A62D048C Old RevisionGUID=094C40AD-C2B3-443F-B8C1-EB6221947903 New RevisionGUID=79C8E467-56EB-4D44-8413-173609AA6799
+Change component parameters: Designator = "C22" ("C22"); Footprint = "FP-CL03-IPC_C"; UniqueID = "\IHBNBEXZ" ("\IHBNBEXZ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0306"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "0816"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0306"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
