@@ -1,0 +1,9 @@
+G04:AMPARAMS|DCode=31|XSize=1.1mm|YSize=0.6mm|CornerRadius=0.051mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=90.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD31*
+21,1,1.1000,0.4980,0,0,90.0*
+21,1,0.9980,0.6000,0,0,90.0*
+1,1,0.1020,0.2490,0.4990*
+1,1,0.1020,0.2490,-0.4990*
+1,1,0.1020,-0.2490,-0.4990*
+1,1,0.1020,-0.2490,0.4990*
+%
